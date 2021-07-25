@@ -1,0 +1,13 @@
+F:\git-test\C-shop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+F:\git-test\C-shop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.deps.json
+F:\git-test\C-shop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.json
+F:\git-test\C-shop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.dev.json
+F:\git-test\C-shop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.dll
+F:\git-test\C-shop\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.pdb
+F:\git-test\C-shop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.AssemblyReference.cache
+F:\git-test\C-shop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+F:\git-test\C-shop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.cs
+F:\git-test\C-shop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.CoreCompileInputs.cache
+F:\git-test\C-shop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.dll
+F:\git-test\C-shop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
+F:\git-test\C-shop\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.genruntimeconfig.cache
